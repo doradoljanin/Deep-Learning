@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep Learning
 ## Project 1
 Image Classification with Convolutional Neural Networks (CNNs)
 ## Project 2
