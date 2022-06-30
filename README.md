@@ -1,7 +1,7 @@
 # Deep Learning
 ## Project 1
 Image Classification with Convolutional Neural Networks (CNNs)
-Dataset: CIFAR-10
+<br /> Dataset: CIFAR-10
 ## Project 2
 Speech commands classification with Recurrent Neural Networks (RNNs)
 Dataset: Speech Commands Dataset
